@@ -2,7 +2,7 @@
   Hi 👋, I'm Abhishek Verma
 </h1>
 <h3>
-  A passionate Java developer and trainer from India. I have 6 years of experience working as a Java developer in IT industry. I am Oracle Java 11 certified and as a passion, I create Java tutorials on YouTube and my channel name is <a href="https://www.youtube.com/@ScaleUpIndia?sub_confirmation=1" target="_blank">ScaleUp India</a>.
+  A passionate Java developer and trainer from India. I have 6.5 years of experience working as a Java developer in IT industry. I am Oracle Java 11 certified and as a passion, I create Java tutorials on YouTube and my channel name is <a href="https://www.youtube.com/@ScaleUpIndia?sub_confirmation=1" target="_blank">ScaleUp India</a>.
 </h3>
 
 <p align="left">
