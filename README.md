@@ -2,7 +2,7 @@
   Hi 👋, I'm Abhishek Verma
 </h1>
 <h3>
-  A passionate Java developer and trainer from India. I have 6.5 years of experience working as a Java developer in IT industry. I am Oracle Java 11 certified and as a passion, I create Java tutorials on YouTube and my channel name is <a href="https://www.youtube.com/@ScaleUpIndia?sub_confirmation=1" target="_blank">ScaleUp India</a>.
+  A passionate Java developer and trainer from India. I have 6.5 years of experience working as a Java developer in IT industry. I am Oracle Java 11 certified and as a passion, I create Java tutorials on YouTube and my channel name is <a href="https://www.youtube.com/@abhishekvermaa10?sub_confirmation=1" target="_blank">Abhishek Verma</a>.
 </h3>
 
 <p align="left">
@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhishekvermaa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekvermaa10" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ScaleUpIndia?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scaleupindia" height="30" width="40" /></a>
+  <a href="https://instagram.com/scaleupindiayt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekvermaa10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
