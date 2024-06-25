@@ -6,8 +6,7 @@
     designing, developing, and maintaining enterprise-level backend applications using Spring Boot. My expertise extends
     beyond frameworks, as I'm a certified Oracle Java 11 developer with a strong foundation in building secure,
     scalable, and high-performing web applications. I thrive in collaborative environments and contribute to innovation
-    by driving efficient IT solutions. I create Java tutorials on YouTube and my channel name is <a
-        href="https://www.youtube.com/@abhishekvermaa10?sub_confirmation=1" target="_blank">Abhishek Verma</a>.
+    by driving efficient IT solutions. I create Java tutorials on YouTube and Instagram.
 </h3>
 
 <p align="left">
