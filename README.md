@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me</h3>
 <hr>
 <p align="left">
-    <a href="https://www.youtube.com/c/abhishekvermaa10" target="blank">
+    <a href="https://www.youtube.com/@abhishekvermaa10" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishekvermaa10" height="30" width="40" />
     </a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/abhishekvermaa10" target="blank">
