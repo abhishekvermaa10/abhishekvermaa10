@@ -30,20 +30,20 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhishekvermaa10" height="30" width="40" />
     </a>
 </p>
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages</h3>
 <hr>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
     </a>
     <a href="https://spring.io" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" />
     </a>
     <a href="https://hibernate.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" alt="mysql" width="40" height="40"/>
