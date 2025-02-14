@@ -17,36 +17,36 @@
 <p align="left">
     <a href="https://www.youtube.com/c/abhishekvermaa10" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishekvermaa10" height="30" width="40" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/abhishekvermaa10" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekvermaa10" height="30" width="40" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://instagram.com/abhishekvermaa10" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekvermaa10" height="30" width="40" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://twitter.com/ytabhishekverma" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ytabhishekverma" height="30" width="40" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://github.com/abhishekvermaa10" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhishekvermaa10" height="30" width="40" />
-    </a>
+    </a>&nbsp;&nbsp;
 </p>
 <h3 align="left">Languages</h3>
 <hr>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://spring.io" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://hibernate.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
+    </a>&nbsp;&nbsp;
 </p>
