@@ -2,11 +2,12 @@
     Hi 👋, I'm Abhishek Verma
 </h1>
 <h3>
-    A passionate Java and Spring Boot developer with 7 years of experience crafting robust IT solutions. I excel in
-    designing, developing, and maintaining enterprise-level backend applications using Spring Boot. My expertise extends
-    beyond frameworks, as I'm a certified Oracle Java 11 developer with a strong foundation in building secure,
-    scalable, and high-performing web applications. I thrive in collaborative environments and contribute to innovation
-    by driving efficient IT solutions. I create Java tutorials on YouTube and Instagram.
+    I am a seasoned Java and Spring Boot Developer with over 7 years of experience in building enterprise-level applications on the Spring stack. My expertise extends beyond frameworks, as I'm a certified Oracle Java 11 developer with a strong foundation in building secure, scalable, and high-performing web applications.<br><br>
+    I hold a Bachelor of Engineering (B.E.) in Electronics and Communication from the University Institute of Engineering and Technology, Panjab University, Chandigarh, graduating in 2017. During my college years, I gained hands-on industry experience through internships at the National Institute of Technical Teachers Training & Research in 2015 and the Terminal Ballistics Research Laboratory in 2017, which helped shape my technical understanding and problem-solving approach.<br><br>
+    My professional journey began at Infosys in 2017, where I honed my skills and built a strong foundation in software development. Seeking new challenges, I transitioned to Nagarro in 2022, where I worked on FinTech projects, gaining valuable experience in high-scale, transaction-heavy applications. Currently, I am a Senior Software Engineer at Exerp (since 2024), contributing to fitness-related projects that enhance user experiences in the health and wellness domain.<br><br>
+    Beyond my role as a developer, I am also a tech educator and content creator. I run the Abhishek Verma YouTube channel, where I create engaging and insightful Java tutorials for developers at all levels. My mission is to make Java learning accessible, practical, and fun, and I take pride in building a thriving community of passionate learners.<br><br> 
+    I strongly believe that quality education and knowledge should be freely accessible, which is why I consistently provide high-quality content on my YouTube and Instagram channels. However, for those looking for a personalized 1:1 career discussion, I also offer mentorship sessions on TopMate at a nominal price.<br><br> 
+    Stay healthy, keep learning, and keep growing!<br><br>
 </h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=abhishekvermaa10&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvermaa10" />
