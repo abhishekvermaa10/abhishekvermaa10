@@ -89,7 +89,7 @@
 <h3 align="left">🖥️ Software & Tools</h3>
 <p align="left">
     <a href="https://www.oracle.com/in/java/technologies/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Java.svg" alt="JDK" width="40" height="40" />
+        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/JDK.svg" alt="JDK" width="40" height="40" />
     </a> &nbsp;&nbsp;
     <a href="https://www.eclipse.org/downloads" target="_blank">
         <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Eclipse.svg" alt="Eclipse" width="40" height="40" />
