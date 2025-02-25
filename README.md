@@ -46,6 +46,9 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
+    <a href="https://abhishekvermaa10.github.io" target="_blank">
+        🌐
+    </a> &nbsp;&nbsp;
     <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank">
         <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/YouTube.svg" alt="YouTube" height="30" width="40" />
     </a> &nbsp;&nbsp;
