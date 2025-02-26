@@ -17,7 +17,8 @@
 <p align="left">
     Here is my <b>Java Developer Roadmap</b> repositories in a sequential order:
 <ul>
-    <li>Java Basics</li>
+    <li><a href="https://abhishekvermaa10.github.io/Java Basics"
+        target="_blank">Java Basics</a></li>
     <li><a href="https://github.com/abhishekvermaa10/Exception-Handling"
         target="_blank">Exception Handling</a></li>
     <li><a href="https://github.com/abhishekvermaa10/Generics"
