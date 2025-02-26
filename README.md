@@ -1,122 +1,121 @@
 <h1 align="center">👋 Hi, I'm Abhishek Verma</h1>
 
-<p align="justify">
-    I am a seasoned <b>Java and Spring Boot Developer</b> with over <b>7 years</b> of experience in building
-    enterprise-level applications on the Spring stack.
-    My expertise extends beyond frameworks, as I'm a <b>certified Oracle Java 11 developer</b> with a strong foundation
-    in building secure, scalable, and high-performing web applications.
+<p align="center">
+    <b>Java & Spring Boot Developer | Oracle Certified Java 11 Developer | 7 Years of experience</b>
 </p>
 
-<p align="justify">
-    I hold a <b>Bachelor of Engineering (B.E.)</b> in <b>Electronics and Communication</b> from the <b>University
-        Institute of
-        Engineering and Technology, Panjab University, Chandigarh</b>, graduating in <b>2017</b>.
-    During my college years, I gained hands-on industry experience through internships at the <b>National Institute of
-        Technical Teachers Training & Research</b> (2015) and the <b>Terminal Ballistics Research Laboratory</b> (2017),
-    which helped shape my technical understanding and problem-solving approach.
+<p align="center">
+🚀 I build <b>enterprise-grade applications</b> with Java & Spring Boot and love creating <b>practical tutorials</b>.
 </p>
 
-<p align="justify">
-    My professional journey started at <b>Infosys</b> (2017), where I honed my skills and built a strong foundation in
-    software development.
-    Seeking new challenges, I transitioned to <b>Nagarro</b> (2022), where I worked on FinTech projects, gaining
-    valuable experience in high-scale, transaction-heavy applications.
-    Currently, I am a <b>Senior Software Engineer</b> at <b>Exerp</b> (since 2024), contributing to fitness-related
-    projects that enhance user experiences in the health and wellness domain.
+<p align="center">
+👉 <a href="https://abhishekvermaa10.github.io" target="_blank">Explore my content</a> | <a href="https://abhishekvermaa10.github.io/about" target="_blank">More about me</a>
 </p>
 
-<p align="justify">
-    Beyond my role as a developer, I am also a <b>tech educator and content creator</b>.
-    I run the <b>Abhishek Verma YouTube channel</b>, where I create engaging and insightful Java tutorials for
-    developers at all levels.
-    My mission is to make Java learning <b>accessible, practical, and fun</b>, and I take pride in building a thriving
-    community of passionate learners.
+<p align="left">
+    Here is my <b>Java Developer Roadmap</b> repositories in a sequential order:
+<ul>
+    <li>Java Basics</li>
+    <li><a href="https://github.com/abhishekvermaa10/Exception-Handling"
+        target="_blank">Exception Handling</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Generics"
+        target="_blank">Generics</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Collection-Framework"
+        target="_blank">Collection Framework</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Multithreading"
+        target="_blank">Multithreading</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Concurrency"
+        target="_blank">Concurrency</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Lambdas"
+        target="_blank">Lambda Expressions</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Streams"
+        target="_blank">Stream API</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/JDBC"
+        target="_blank">Java Database Connectivity (JDBC)</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Maven"
+        target="_blank">Maven</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Hibernate"
+        target="_blank">Hibernate</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Spring-Basics-with-Spring-Boot"
+        target="_blank">Spring Basics with Spring Boot</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Spring-Data"
+        target="_blank">Spring Data JPA with Spring Boot</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Spring-REST"
+        target="_blank">Spring REST with Spring Boot</a></li>
+</ul>
 </p>
 
-<p align="justify">
-    I strongly believe that quality education and knowledge should be <b>freely accessible</b>, which is why I
-    consistently provide <b>high-quality content</b> on my <b>YouTube</b> and <b>Instagram</b> channels.
-    However, for those looking for a personalized <b>1:1 career discussion</b>, I also offer mentorship sessions on
-    <b>TopMate</b> at a nominal price.
+<p align="left">
+🎥 Learn these topics from my <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank">YouTube channel</a> through dedicated playlists.
 </p>
 
 <p align="center"><b>🚀 Stay healthy, keep learning, and keep growing!</b></p>
 
-<hr>
-
 <h3 align="left">🌐 Connect with me</h3>
 <div align="left">
     <a href="https://abhishekvermaa10.github.io" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=My Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  <img src="https://img.shields.io/static/v1?message=My Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website" />
     </a>
     <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
     </a>
     <a href="https://linkedin.com/in/abhishekvermaa10" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/abhishekvermaa10" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram />
     </a>
     <a href="https://x.com/ytabhishekverma" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
     </a>
   <a href="https://topmate.io/abhishekvermaa10" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=TopMate&logo=topmate&label=&color=FF6347&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="topmate logo" />
+  <img src="https://img.shields.io/static/v1?message=Topmate&logo=topmate&label=&color=FF6347&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Topmate" />
   </a>
     <a href="https://github.com/abhishekvermaa10" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
     </a>
     <a href="mailto:scaleupindiayt@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-    <a href="https://t.me/ScaleUpIndiayt" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GMail" />
     </a>
 </div>
 
-
-<hr>
-
 <h3 align="left">🛠️ Languages & Frameworks</h3>
-<p align="left">
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Java.svg" alt="Java" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://spring.io" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Spring.svg" alt="Spring" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://hibernate.org" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Hibernate.svg" alt="Hibernate" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-</p>
-
-<hr>
+<div align="left">
+<a href="https://www.java.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="70" alt="Java" />
+</a>
+<a href="https://hibernate.org" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" height="70" alt="Hibernate"  />
+</a>
+<a href="https://spring.io" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  height="70" alt="Spring"  />
+</a>           
+</div>
 
 <h3 align="left">🖥️ Software & Tools</h3>
-<p align="left">
-    <a href="https://www.oracle.com/in/java/technologies/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/JDK.svg" alt="JDK" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://www.eclipse.org/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Eclipse.svg" alt="Eclipse" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://spring.io/tools" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Spring Tool Suite.svg" alt="Spring Tool Suite" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://dev.mysql.com/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/MySQL.svg" alt="MySQL" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://dbeaver.io/download" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/DBeaver.svg" alt="DBeaver" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://www.postman.com/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Postman.svg" alt="Postman" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://maven.apache.org" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Maven.svg" alt="Maven" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://git-scm.com/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Git.svg" alt="Git" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-</p>
+<div align="left">
+<a href="https://www.oracle.com/in/java/technologies/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" />
+</a>
+<a href="https://www.eclipse.org/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse" />
+</a>
+<a href="https://spring.io/tools" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Spring Tool Suite" />
+</a>
+<a href="https://dev.mysql.com/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+</a>
+<a href="https://dbeaver.io/download" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" alt="DBeaver" />
+</a>
+<a href="https://www.postman.com/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" alt="Postman" />
+</a>
+<a href="https://maven.apache.org" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="50" alt="Maven" />
+</a> 
+<a href="https://git-scm.com/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" /> 
+</a>   
+</div>
