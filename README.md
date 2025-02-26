@@ -45,32 +45,36 @@
 <hr>
 
 <h3 align="left">🌐 Connect with me</h3>
-<p align="left">
+<div align="left">
     <a href="https://abhishekvermaa10.github.io" target="_blank">
-        🌐
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=My Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+    </a>
     <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/YouTube.svg" alt="YouTube" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    </a>
     <a href="https://linkedin.com/in/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/LinkedIn.svg" alt="LinkedIn" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    </a>
     <a href="https://instagram.com/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/Instagram.svg" alt="Instagram" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    </a>
     <a href="https://x.com/ytabhishekverma" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/X.svg" alt="X" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
+    </a>
+  <a href="https://topmate.io/abhishekvermaa10" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TopMate&logo=topmate&label=&color=FF6347&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="topmate logo" />
+  </a>
     <a href="https://github.com/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/GitHub.svg" alt="GitHub" height="30" width="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://topmate.io/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/TopMate.svg" alt="TopMate" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+    </a>
     <a href="mailto:scaleupindiayt@gmail.com">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/GMail.svg" alt="GMail" height="30" width="40" />
-    </a> &nbsp;&nbsp;
-</p>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    </a>
+    <a href="https://t.me/ScaleUpIndiayt" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+    </a>
+</div>
+
 
 <hr>
 
