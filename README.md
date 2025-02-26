@@ -119,3 +119,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" /> 
 </a>   
 </div>
+<br>
+<div align="center">Copyright © 2025 Abhishek Verma - All Rights Reserved</div>
