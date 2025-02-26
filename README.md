@@ -12,6 +12,8 @@
 👉 <a href="https://abhishekvermaa10.github.io" target="_blank">Explore my content</a> | <a href="https://abhishekvermaa10.github.io/about" target="_blank">More about me</a>
 </p>
 
+<hr>
+
 <p align="left">
     Here is my <b>Java Developer Roadmap</b> repositories in a sequential order:
 <ul>
@@ -30,6 +32,10 @@
         target="_blank">Lambda Expressions</a></li>
     <li><a href="https://github.com/abhishekvermaa10/Streams"
         target="_blank">Stream API</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/Optional-Class"
+        target="_blank">Optional Class</a></li>
+    <li><a href="https://github.com/abhishekvermaa10/DateTimeAPI"
+        target="_blank">Date/Time API</a></li>
     <li><a href="https://github.com/abhishekvermaa10/JDBC"
         target="_blank">Java Database Connectivity (JDBC)</a></li>
     <li><a href="https://github.com/abhishekvermaa10/Maven"
@@ -50,6 +56,8 @@
 </p>
 
 <p align="center"><b>🚀 Stay healthy, keep learning, and keep growing!</b></p>
+
+<hr>
 
 <h3 align="left">🌐 Connect with me</h3>
 <div align="left">
@@ -79,6 +87,8 @@
     </a>
 </div>
 
+<hr>
+
 <h3 align="left">🛠️ Languages & Frameworks</h3>
 <div align="left">
 <a href="https://www.java.com" target="_blank">
@@ -91,6 +101,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  height="70" alt="Spring"  />
 </a>           
 </div>
+
+<hr>
 
 <h3 align="left">🖥️ Software & Tools</h3>
 <div align="left">
@@ -119,5 +131,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" /> 
 </a>   
 </div>
-<br>
+
+<hr>
+
 <div align="center">Copyright © 2025 Abhishek Verma - All Rights Reserved</div>
