@@ -63,7 +63,7 @@
 <h3 align="left">🌐 Connect with me</h3>
 <div align="left">
     <a href="https://abhishekvermaa10.github.io" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=My Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="My Website" />
+  <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website" />
     </a>
     <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
