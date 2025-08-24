@@ -53,6 +53,8 @@
         target="_blank">Spring REST with Spring Boot</a></li>
 	<li><a href="https://abhishekvermaa10.github.io/spring-microservices-with-spring-boot.html"
         target="_blank">Spring Microservices with Spring Boot</a></li>
+	<li><a href="https://github.com/abhishekvermaa10/Emailing_By_Java"
+        target="_blank">Emailing by Java</a></li>
 </ul>
 </p>
 
@@ -135,6 +137,9 @@
 <a href="https://git-scm.com/downloads" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" /> 
 </a>   
+<a href="https://mailpit.axllent.org/docs/install" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" height="50" alt="MailPit" /> 
+</a>  
 </div>
 
 <hr>
