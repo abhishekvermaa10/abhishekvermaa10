@@ -140,7 +140,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" /> 
 </a>   
 <a href="https://mailpit.axllent.org/docs/install" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" height="50" alt="MailPit" /> 
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" height="50" alt="MailPit" />
 </a>  
 </div>
 
