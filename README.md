@@ -55,6 +55,8 @@
         target="_blank">Spring Microservices with Spring Boot</a></li>
 	<li><a href="https://github.com/abhishekvermaa10/Emailing_By_Java"
         target="_blank">Emailing by Java</a></li>
+	<li><a href="https://github.com/abhishekvermaa10/Spring-AI"
+        target="_blank">Spring AI</a></li>
 </ul>
 </p>
 
