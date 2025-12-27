@@ -51,7 +51,7 @@
         target="_blank">Spring Data JPA with Spring Boot</a></li>
     <li><a href="https://github.com/abhishekvermaa10/Spring-REST"
         target="_blank">Spring REST with Spring Boot</a></li>
-	<li><a href="https://abhishekvermaa10.github.io/spring-microservices-with-spring-boot.html"
+	<li><a href="https://abhishekvermaa10.github.io/Spring-Microservices"
         target="_blank">Spring Microservices with Spring Boot</a></li>
 	<li><a href="https://github.com/abhishekvermaa10/Emailing_By_Java"
         target="_blank">Emailing by Java</a></li>
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/abhishekvermaa10" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
     </a>
     <a href="https://x.com/ytabhishekverma" target="_blank">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
@@ -141,9 +141,17 @@
 </a>   
 <a href="https://mailpit.axllent.org/docs/install" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" height="50" alt="MailPit" />
-</a>  
+</a>
+    <a href="https://developer.hashicorp.com/consul/install" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-consul.svg" height="50"
+            alt="Consul" />
+    </a>
+    <a href="https://kafka.apache.org/community/downloads" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
+            height="50" alt="Kafka" />
+    </a>  
 </div>
 
 <hr>
 
-<div align="center">Copyright © 2025 Abhishek Verma - All Rights Reserved</div>
+<div align="center">Copyright © Abhishek Verma - All Rights Reserved</div>
