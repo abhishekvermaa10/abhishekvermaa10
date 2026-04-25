@@ -142,14 +142,15 @@
 <a href="https://mailpit.axllent.org/docs/install" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" height="50" alt="MailPit" />
 </a>
-    <a href="https://developer.hashicorp.com/consul/install" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-consul.svg" height="50"
-            alt="Consul" />
-    </a>
-    <a href="https://kafka.apache.org/community/downloads" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
-            height="50" alt="Kafka" />
-    </a>  
+<a href="https://developer.hashicorp.com/consul/install" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-consul.svg" height="50" alt="Consul" />
+</a>
+<a href="https://kafka.apache.org/community/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" />
+</a>
+<a href="https://github.com/open-telemetry/opentelemetry-collector-releases/releases" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" height="50" alt="OpenTelemetry" />
+</a>  
 </div>
 
 <hr>
